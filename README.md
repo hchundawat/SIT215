@@ -1,5 +1,5 @@
 # SIT215
-
+code for Sit2145 project
 Code reference: 
 Taxi problem
 https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
